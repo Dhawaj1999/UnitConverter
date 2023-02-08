@@ -33,7 +33,7 @@ body{
     flex-direction: column;
     align-items: center;
     background: #00a896;
-    padding: 20px 35px;
+    padding: 35px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-top: 2px solid #f0f3bd;
@@ -61,6 +61,7 @@ h1{
 }
 
 input{
+    margin-top: 20px;
     font-weight: 800;
     color: #FFFFFF;
     padding: 5px 2px;
